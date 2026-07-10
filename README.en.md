@@ -20,14 +20,14 @@ No formal experience yet — but real, working projects running in prod.
 
 <div align="left">
 
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=7F77DD)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=7F77DD)
-![nginx](https://img.shields.io/badge/nginx-0d1117?style=flat-square&logo=nginx&logoColor=7F77DD)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7F77DD)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=7F77DD)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=7F77DD)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=7F77DD)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=7F77DD)
+![Linux](https://img.shields.io/badge/Linux-7F77DD?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-7F77DD?style=flat-square&logo=docker&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-7F77DD?style=flat-square&logo=nginx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7F77DD?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-7F77DD?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7F77DD?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7F77DD?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-7F77DD?style=flat-square&logo=react&logoColor=white)
 
 </div>
 
@@ -44,14 +44,8 @@ No formal experience yet — but real, working projects running in prod.
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=7F77DD)](https://github.com/dclxvist)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=7F77DD)](mailto:you@example.com)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dclxvist&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=8b949e&icon_color=7F77DD" width="60%" />
+[![GitHub](https://img.shields.io/badge/GitHub-7F77DD?style=flat-square&logo=github&logoColor=white)](https://github.com/dclxvist)
+[![Email](https://img.shields.io/badge/Email-7F77DD?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
 
 </div>
 
