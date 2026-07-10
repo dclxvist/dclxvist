@@ -2,33 +2,32 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:185FA5&height=190&section=header&text=dclxvist&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Junior%20Sysadmin%20%2F%20DevOps%20Engineer&descAlignY=58&descSize=18&descColor=e6edf3" width="100%" />
 
-**Русский** · [English](https://github.com/dclxvist/dclxvist/blob/main/README.en.md)
+[Русский](https://github.com/dclxvist/dclxvist/blob/main/README.md) · **English**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=520&lines=%24+whoami;%3E+Linux+VPS+%7C+Docker+%7C+nginx;%3E+FastAPI+%7C+PostgreSQL+%7C+CI;%3E+Novosibirsk+%F0%9F%87%B7%F0%9F%87%BA" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=520&lines=%24+whoami;%3E+I+deploy+things+on+Linux+VPS;%3E+Docker+%7C+nginx+%7C+FastAPI+%7C+Postgres;%3E+based+in+Novosibirsk+%F0%9F%87%B7%F0%9F%87%BA" alt="typing" />
 </a>
 
 </div>
 
 ### About
 
-Junior-специалист по системному администрированию и DevOps. Строю
-и деплою production-приложения на собственной Linux VPS-инфраструктуре:
-Docker Compose, nginx, SSL, CI. Без формального опыта — но с реальными
-рабочими проектами, которые крутятся в проде.
+Junior sysadmin / DevOps engineer. I build and deploy production apps
+on my own Linux VPS infrastructure: Docker Compose, nginx, SSL, CI.
+No formal experience yet — but real, working projects running in prod.
 
 ### Stack
 
 <div align="left">
 
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=7F77DD)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=7F77DD)
-![nginx](https://img.shields.io/badge/nginx-0d1117?style=flat-square&logo=nginx&logoColor=7F77DD)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7F77DD)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=7F77DD)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=7F77DD)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=7F77DD)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=7F77DD)
+![Linux](https://img.shields.io/badge/Linux-7F77DD?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-7F77DD?style=flat-square&logo=docker&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-7F77DD?style=flat-square&logo=nginx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7F77DD?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-7F77DD?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7F77DD?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7F77DD?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-7F77DD?style=flat-square&logo=react&logoColor=white)
 
 </div>
 
@@ -37,7 +36,7 @@ Docker Compose, nginx, SSL, CI. Без формального опыта — н�
 <table>
 <tr>
 <td><b><a href="https://langapp.fun">langapp.fun</a></b></td>
-<td>Флеш-карты на 133 языка · PWA + Telegram Mini App</td>
+<td>Vocabulary flashcards in 133 languages · PWA + Telegram Mini App</td>
 </tr>
 </table>
 
@@ -45,14 +44,8 @@ Docker Compose, nginx, SSL, CI. Без формального опыта — н�
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=7F77DD)](https://github.com/dclxvist)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=7F77DD)](mailto:you@example.com)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dclxvist&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=8b949e&icon_color=7F77DD" width="60%" />
+[![GitHub](https://img.shields.io/badge/GitHub-7F77DD?style=flat-square&logo=github&logoColor=white)](https://github.com/dclxvist)
+[![Email](https://img.shields.io/badge/Email-7F77DD?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
 
 </div>
 
