@@ -35,7 +35,6 @@ No formal experience yet — but real, working projects running in prod.
 
 <table>
 <tr>
-<td><code>drwxr-xr-x</code></td>
 <td><b><a href="https://langapp.fun">langapp.fun</a></b></td>
 <td>Vocabulary flashcards in 133 languages · PWA + Telegram Mini App</td>
 </tr>
@@ -46,7 +45,7 @@ No formal experience yet — but real, working projects running in prod.
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=7F77DD)](https://github.com/dclxvist)
-[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=7F77DD)](https://t.me/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=7F77DD)](mailto:you@example.com)
 
 </div>
 
