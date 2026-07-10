@@ -5,7 +5,7 @@
 **Русский** · [English](https://github.com/dclxvist/dclxvist/blob/main/README.en.md)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=520&lines=%24+whoami;%3E+\u0434\u0435\u043f\u043b\u043e\u044e+\u043d\u0430+Linux+VPS;%3E+Docker+%7C+nginx+%7C+FastAPI+%7C+Postgres;%3E+\u0438\u0437+\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430+%F0%9F%87%B7%F0%9F%87%BA" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=520&lines=%24+whoami;%3E+Linux+VPS+%7C+Docker+%7C+nginx;%3E+FastAPI+%7C+PostgreSQL+%7C+CI;%3E+Novosibirsk+%F0%9F%87%B7%F0%9F%87%BA" alt="typing" />
 </a>
 
 </div>
@@ -36,7 +36,6 @@ Docker Compose, nginx, SSL, CI. Без формального опыта — н�
 
 <table>
 <tr>
-<td><code>drwxr-xr-x</code></td>
 <td><b><a href="https://langapp.fun">langapp.fun</a></b></td>
 <td>Флеш-карты на 133 языка · PWA + Telegram Mini App</td>
 </tr>
@@ -47,7 +46,7 @@ Docker Compose, nginx, SSL, CI. Без формального опыта — н�
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=7F77DD)](https://github.com/dclxvist)
-[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=7F77DD)](https://t.me/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=7F77DD)](mailto:you@example.com)
 
 </div>
 
