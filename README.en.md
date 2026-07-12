@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:185FA5&height=190&section=header&text=dclxvist&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Junior%20Sysadmin%20%2F%20DevOps%20Engineer&descAlignY=58&descSize=18&descColor=e6edf3" width="100%" />
+<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/header.svg" width="100%" />
+
+<!-- Subtitle — edit text here -->
+### Junior Sysadmin / DevOps Engineer
 
 [Русский](https://github.com/dclxvist/dclxvist/blob/main/README.md) · **English**
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=520&lines=%24+whoami;%3E+I+deploy+things+on+Linux+VPS;%3E+Docker+%7C+nginx+%7C+FastAPI+%7C+Postgres;%3E+based+in+Novosibirsk+%F0%9F%87%B7%F0%9F%87%BA" alt="typing" />
-</a>
 
 </div>
 
@@ -20,14 +19,14 @@ No formal experience yet — but real, working projects running in prod.
 
 <div align="left">
 
-![Linux](https://img.shields.io/badge/Linux-7F77DD?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7F77DD?style=flat-square&logo=docker&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-7F77DD?style=flat-square&logo=nginx&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7F77DD?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-7F77DD?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7F77DD?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-7F77DD?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-7F77DD?style=flat-square&logo=react&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF592B?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-F16428?style=flat-square&logo=docker&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-FF592B?style=flat-square&logo=nginx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-77159F?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-77159F?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-28649C?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-28649C?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-00EED0?style=flat-square&logo=react&logoColor=white)
 
 </div>
 
@@ -44,9 +43,9 @@ No formal experience yet — but real, working projects running in prod.
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-7F77DD?style=flat-square&logo=github&logoColor=white)](https://github.com/dclxvist)
-[![Email](https://img.shields.io/badge/Email-7F77DD?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-77159F?style=flat-square&logo=github&logoColor=white)](https://github.com/dclxvist)
+[![Email](https://img.shields.io/badge/Email-FF592B?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:7F77DD&height=100&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/footer.svg" width="100%" />

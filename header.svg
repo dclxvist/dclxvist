@@ -1,0 +1,51 @@
+<svg viewBox="0 0 800 190" width="800" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="dclxvist">
+  <defs>
+    <filter id="mB" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="54"/></filter>
+    <filter id="gB" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="20"/></filter>
+    <clipPath id="cA"><rect x="0" y="0" width="800" height="190" rx="16"/></clipPath>
+    <mask id="tM">
+      <rect x="0" y="0" width="800" height="190" fill="black"/>
+      <text x="400" y="115" text-anchor="middle" style="font-family:'Segoe UI',Arial,sans-serif;font-weight:800;font-size:68px;letter-spacing:-1.5px;" fill="white">dclxvist</text>
+    </mask>
+    <g id="bl">
+      <circle r="165" fill="#FF592B">
+        <animate attributeName="cx" values="87;219;102;12;136;-14;-15;87" dur="31s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        <animate attributeName="cy" values="33;21;36;27;63;-1;65;33" dur="39s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        <animate attributeName="fill" values="#FF592B;#F16428;#FF592B" dur="27s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="160" fill="#77159F">
+        <animate attributeName="cx" values="101;219;167;139;-33;162;95;101" dur="43s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        <animate attributeName="cy" values="159;102;147;82;112;98;105;159" dur="33s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        <animate attributeName="fill" values="#77159F;#38106B;#873AA8;#77159F" dur="31s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="155" fill="#38106B">
+        <animate attributeName="cx" values="612;596;446;415;246;261;162;612" dur="37s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        <animate attributeName="cy" values="243;131;175;137;178;179;131;243" dur="45s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        <animate attributeName="fill" values="#38106B;#28649C;#77159F;#38106B" dur="29s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="165" fill="#28649C">
+        <animate attributeName="cx" values="751;733;794;737;708;751;639;751" dur="41s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        <animate attributeName="cy" values="51;141;102;84;53;112;85;51" dur="35s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        <animate attributeName="fill" values="#28649C;#873AA8;#018AB8;#28649C" dur="33s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="145" fill="#00EED0">
+        <animate attributeName="cx" values="469;588;454;416;291;340;649;469" dur="47s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        <animate attributeName="cy" values="201;196;201;258;210;201;200;201" dur="39s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        <animate attributeName="fill" values="#00EED0;#018AB8;#28649C;#00EED0" dur="35s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="150" fill="#F16428">
+        <animate attributeName="cx" values="532;566;735;665;526;639;695;532" dur="39s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        <animate attributeName="cy" values="37;11;47;15;8;54;43;37" dur="47s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+        <animate attributeName="fill" values="#F16428;#FF592B;#C28B5A;#F16428" dur="30s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </defs>
+  <g clip-path="url(#cA)">
+    <rect x="0" y="0" width="800" height="190" fill="#0a0a12"/>
+    <g filter="url(#mB)"><use href="#bl"/></g>
+    <g mask="url(#tM)">
+      <rect x="0" y="0" width="800" height="190" fill="#ffffff" opacity="0.82"/>
+      <g filter="url(#gB)" opacity="0.34"><use href="#bl"/></g>
+    </g>
+  </g>
+</svg>
