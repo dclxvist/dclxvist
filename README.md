@@ -20,13 +20,13 @@ Docker Compose, nginx, SSL, CI. Без формального опыта — н�
 
 <div align="left">
 
-<img src="https://cdn.simpleicons.org/linux/C9D1D9" width="42" height="42" alt="Linux" title="Linux" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker/C9D1D9" width="42" height="42" alt="Docker" title="Docker" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nginx/C9D1D9" width="42" height="42" alt="nginx" title="nginx" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git/C9D1D9" width="42" height="42" alt="Git" title="Git" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python/C9D1D9" width="42" height="42" alt="Python" title="Python" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/C9D1D9" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/gnubash/C9D1D9" width="42" height="42" alt="Bash" title="Bash" />
+<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-linux.svg" width="46" height="46" alt="Linux" title="Linux" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-docker.svg" width="46" height="46" alt="Docker" title="Docker" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-nginx.svg" width="46" height="46" alt="nginx" title="nginx" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-git.svg" width="46" height="46" alt="Git" title="Git" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-python.svg" width="46" height="46" alt="Python" title="Python" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-postgresql.svg" width="46" height="46" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-gnubash.svg" width="46" height="46" alt="Bash" title="Bash" />
 
 </div>
 
