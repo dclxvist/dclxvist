@@ -20,14 +20,7 @@ Docker Compose, nginx, SSL, CI. Без формального опыта — н�
 
 <div align="left">
 
-<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-linux.svg" width="46" height="46" alt="Linux" title="Linux" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-docker.svg" width="46" height="46" alt="Docker" title="Docker" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-nginx.svg" width="46" height="46" alt="nginx" title="nginx" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-git.svg" width="46" height="46" alt="Git" title="Git" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-python.svg" width="46" height="46" alt="Python" title="Python" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-postgresql.svg" width="46" height="46" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-gnubash.svg" width="46" height="46" alt="Bash" title="Bash" />
-
+<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/stack.svg" width="454" />
 </div>
 
 ### Projects
