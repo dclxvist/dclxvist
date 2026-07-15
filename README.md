@@ -1,51 +1,94 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/header.svg" width="100%" />
-
-<!-- Подзаголовок — меняй текст здесь -->
-### Junior Sysadmin / DevOps Engineer
-
-**Русский** · [English](https://github.com/dclxvist/dclxvist/blob/main/README.en.md)
-
-</div>
-
-### About
-
-Junior-специалист по системному администрированию и DevOps. Строю
-и деплою production-приложения на собственной Linux VPS-инфраструктуре:
-Docker Compose, nginx, SSL, CI. Без формального опыта — но с реальными
-рабочими проектами, которые крутятся в проде.
-
-### Stack
-
-<div align="left">
-
-<img src="https://cdn.simpleicons.org/linux/C9D1D9" width="42" height="42" alt="Linux" title="Linux" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker/C9D1D9" width="42" height="42" alt="Docker" title="Docker" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nginx/C9D1D9" width="42" height="42" alt="nginx" title="nginx" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git/C9D1D9" width="42" height="42" alt="Git" title="Git" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python/C9D1D9" width="42" height="42" alt="Python" title="Python" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/C9D1D9" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/gnubash/C9D1D9" width="42" height="42" alt="Bash" title="Bash" />
-
-</div>
-
-### Projects
-
-<table>
-<tr>
-<td><b><a href="https://langapp.fun">langapp.fun</a></b></td>
-<td>Флеш-карты на 133 языка · PWA + Telegram Mini App</td>
-</tr>
-</table>
-
-### Contacts
-
-<div align="left">
-
-<a href="https://github.com/dclxvist"><img src="https://cdn.simpleicons.org/github/C9D1D9" width="34" height="34" alt="GitHub" title="GitHub" /></a>&nbsp;&nbsp;
-<a href="mailto:you@example.com"><img src="https://cdn.simpleicons.org/maildotru/C9D1D9" width="34" height="34" alt="Email" title="Email" /></a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/footer.svg" width="100%" />
+<svg viewBox="0 0 800 190" width="800" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="dclxvist">
+  <defs>
+    <filter id="mB" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="54"/></filter>
+    <filter id="gB" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="20"/></filter>
+    <clipPath id="cA"><rect x="0" y="0" width="800" height="190" rx="16"/></clipPath>
+    <mask id="tM">
+      <rect x="0" y="0" width="800" height="190" fill="black"/>
+      <text x="400" y="105" text-anchor="middle" style="font-family:'Segoe UI',Arial,sans-serif;font-weight:800;font-size:68px;letter-spacing:-1.5px;" fill="white">dclxvist</text>
+    </mask>    <mask id="typeMask">
+      <rect x="0" y="0" width="800" height="190" fill="white"/>
+      <rect y="130" height="24" fill="black" width="300" x="286">
+        <animate attributeName="x" dur="0.01s" begin="0.60s" fill="freeze" values="286"/>
+        <animate attributeName="x" dur="0.01s" begin="0.68s" fill="freeze" values="294"/>
+        <animate attributeName="x" dur="0.01s" begin="0.76s" fill="freeze" values="303"/>
+        <animate attributeName="x" dur="0.01s" begin="0.84s" fill="freeze" values="312"/>
+        <animate attributeName="x" dur="0.01s" begin="0.92s" fill="freeze" values="320"/>
+        <animate attributeName="x" dur="0.01s" begin="1.00s" fill="freeze" values="328"/>
+        <animate attributeName="x" dur="0.01s" begin="1.08s" fill="freeze" values="337"/>
+        <animate attributeName="x" dur="0.01s" begin="1.16s" fill="freeze" values="346"/>
+        <animate attributeName="x" dur="0.01s" begin="1.74s" fill="freeze" values="354"/>
+        <animate attributeName="x" dur="0.01s" begin="1.82s" fill="freeze" values="362"/>
+        <animate attributeName="x" dur="0.01s" begin="1.90s" fill="freeze" values="371"/>
+        <animate attributeName="x" dur="0.01s" begin="1.98s" fill="freeze" values="380"/>
+        <animate attributeName="x" dur="0.01s" begin="2.06s" fill="freeze" values="388"/>
+        <animate attributeName="x" dur="0.01s" begin="2.14s" fill="freeze" values="396"/>
+        <animate attributeName="x" dur="0.01s" begin="2.22s" fill="freeze" values="405"/>
+        <animate attributeName="x" dur="0.01s" begin="2.30s" fill="freeze" values="414"/>
+        <animate attributeName="x" dur="0.01s" begin="2.38s" fill="freeze" values="422"/>
+        <animate attributeName="x" dur="0.01s" begin="2.46s" fill="freeze" values="430"/>
+        <animate attributeName="x" dur="0.01s" begin="2.54s" fill="freeze" values="439"/>
+        <animate attributeName="x" dur="0.01s" begin="2.62s" fill="freeze" values="448"/>
+        <animate attributeName="x" dur="0.01s" begin="2.70s" fill="freeze" values="456"/>
+        <animate attributeName="x" dur="0.01s" begin="2.78s" fill="freeze" values="464"/>
+        <animate attributeName="x" dur="0.01s" begin="2.86s" fill="freeze" values="473"/>
+        <animate attributeName="x" dur="0.01s" begin="2.94s" fill="freeze" values="482"/>
+        <animate attributeName="x" dur="0.01s" begin="3.02s" fill="freeze" values="490"/>
+        <animate attributeName="x" dur="0.01s" begin="3.10s" fill="freeze" values="498"/>
+        <animate attributeName="x" dur="0.01s" begin="3.18s" fill="freeze" values="525"/>
+      </rect>
+    </mask>
+    <g id="bl">
+      <circle r="165" fill="#FF592B"><animate attributeName="cx" values="87;219;102;12;136;-14;-15;87" dur="31s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="cy" values="33;21;36;27;63;-1;65;33" dur="39s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="fill" values="#FF592B;#F16428;#FF592B" dur="27s" repeatCount="indefinite"/></circle>
+      <circle r="160" fill="#77159F"><animate attributeName="cx" values="101;219;167;139;-33;162;95;101" dur="43s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="cy" values="159;102;147;82;112;98;105;159" dur="33s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="fill" values="#77159F;#38106B;#873AA8;#77159F" dur="31s" repeatCount="indefinite"/></circle>
+      <circle r="155" fill="#38106B"><animate attributeName="cx" values="612;596;446;415;246;261;162;612" dur="37s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="cy" values="243;131;175;137;178;179;131;243" dur="45s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="fill" values="#38106B;#28649C;#77159F;#38106B" dur="29s" repeatCount="indefinite"/></circle>
+      <circle r="165" fill="#28649C"><animate attributeName="cx" values="751;733;794;737;708;751;639;751" dur="41s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="cy" values="51;141;102;84;53;112;85;51" dur="35s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="fill" values="#28649C;#873AA8;#018AB8;#28649C" dur="33s" repeatCount="indefinite"/></circle>
+      <circle r="145" fill="#00EED0"><animate attributeName="cx" values="469;588;454;416;291;340;649;469" dur="47s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="cy" values="201;196;201;258;210;201;200;201" dur="39s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="fill" values="#00EED0;#018AB8;#28649C;#00EED0" dur="35s" repeatCount="indefinite"/></circle>
+      <circle r="150" fill="#F16428"><animate attributeName="cx" values="532;566;735;665;526;639;695;532" dur="39s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="cy" values="37;11;47;15;8;54;43;37" dur="47s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="fill" values="#F16428;#FF592B;#C28B5A;#F16428" dur="30s" repeatCount="indefinite"/></circle>
+    </g>
+  </defs>
+  <g clip-path="url(#cA)">
+    <rect x="0" y="0" width="800" height="190" fill="#0a0a12"/>
+    <g filter="url(#mB)"><use href="#bl"/></g>
+    <g mask="url(#tM)">
+      <rect x="0" y="0" width="800" height="190" fill="#ffffff" opacity="0.82"/>
+      <g filter="url(#gB)" opacity="0.34"><use href="#bl"/></g>
+    </g>
+    <g>
+      <text x="268" y="145" style="font-family:'JetBrains Mono','Courier New',monospace;font-size:14px;letter-spacing:0.5px;" fill="#ffffff" fill-opacity="0.5">$</text>
+      <g mask="url(#typeMask)">
+        <text x="286" y="145" style="font-family:'JetBrains Mono','Courier New',monospace;font-size:14px;letter-spacing:0.5px;" fill="#ffffff" fill-opacity="0.92">status: available for hire</text>
+      </g>
+      <rect y="134" width="9" height="15" fill="#ffffff" fill-opacity="0.65" x="286">
+          <animate attributeName="x" dur="0.01s" begin="0.60s" fill="freeze" values="286"/>
+          <animate attributeName="x" dur="0.01s" begin="0.68s" fill="freeze" values="294"/>
+          <animate attributeName="x" dur="0.01s" begin="0.76s" fill="freeze" values="303"/>
+          <animate attributeName="x" dur="0.01s" begin="0.84s" fill="freeze" values="312"/>
+          <animate attributeName="x" dur="0.01s" begin="0.92s" fill="freeze" values="320"/>
+          <animate attributeName="x" dur="0.01s" begin="1.00s" fill="freeze" values="328"/>
+          <animate attributeName="x" dur="0.01s" begin="1.08s" fill="freeze" values="337"/>
+          <animate attributeName="x" dur="0.01s" begin="1.16s" fill="freeze" values="346"/>
+          <animate attributeName="x" dur="0.01s" begin="1.74s" fill="freeze" values="354"/>
+          <animate attributeName="x" dur="0.01s" begin="1.82s" fill="freeze" values="362"/>
+          <animate attributeName="x" dur="0.01s" begin="1.90s" fill="freeze" values="371"/>
+          <animate attributeName="x" dur="0.01s" begin="1.98s" fill="freeze" values="380"/>
+          <animate attributeName="x" dur="0.01s" begin="2.06s" fill="freeze" values="388"/>
+          <animate attributeName="x" dur="0.01s" begin="2.14s" fill="freeze" values="396"/>
+          <animate attributeName="x" dur="0.01s" begin="2.22s" fill="freeze" values="405"/>
+          <animate attributeName="x" dur="0.01s" begin="2.30s" fill="freeze" values="414"/>
+          <animate attributeName="x" dur="0.01s" begin="2.38s" fill="freeze" values="422"/>
+          <animate attributeName="x" dur="0.01s" begin="2.46s" fill="freeze" values="430"/>
+          <animate attributeName="x" dur="0.01s" begin="2.54s" fill="freeze" values="439"/>
+          <animate attributeName="x" dur="0.01s" begin="2.62s" fill="freeze" values="448"/>
+          <animate attributeName="x" dur="0.01s" begin="2.70s" fill="freeze" values="456"/>
+          <animate attributeName="x" dur="0.01s" begin="2.78s" fill="freeze" values="464"/>
+          <animate attributeName="x" dur="0.01s" begin="2.86s" fill="freeze" values="473"/>
+          <animate attributeName="x" dur="0.01s" begin="2.94s" fill="freeze" values="482"/>
+          <animate attributeName="x" dur="0.01s" begin="3.02s" fill="freeze" values="490"/>
+          <animate attributeName="x" dur="0.01s" begin="3.10s" fill="freeze" values="498"/>
+          <animate attributeName="x" dur="0.01s" begin="3.18s" fill="freeze" values="525"/>
+          <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" begin="0s" keyTimes="0;0.49;0.5;1" repeatCount="indefinite"/>
+        </rect>
+    </g>
+  </g>
+</svg>
