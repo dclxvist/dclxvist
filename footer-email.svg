@@ -1,7 +1,7 @@
-<svg viewBox="0 0 400 90" width="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Email">
+<svg viewBox="0 0 400 63" width="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Email">
   <defs>
     <filter id="fB" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="54"/></filter>
-    <clipPath id="cF"><rect x="0" y="0" width="400" height="90" rx="14"/></clipPath>
+    <clipPath id="cF"><rect x="0" y="0" width="400" height="63" rx="12"/></clipPath>
     <g id="bl">
       <circle r="165" fill="#FF592B">
         <animate attributeName="cx" values="87;219;102;12;136;-14;-15;87" dur="31s" repeatCount="indefinite" calcMode="spline" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
@@ -36,8 +36,10 @@
     </g>
   </defs>
   <g clip-path="url(#cF)">
-    <rect x="0" y="0" width="400" height="90" fill="#0a0a12"/>
-    <g filter="url(#fB)" transform="translate(0,90) scale(1,-1)"><use href="#bl"/></g>
-    <text x="200" y="52" text-anchor="middle" style="font-family:'Segoe UI',Arial,sans-serif;font-size:17px;font-weight:600;letter-spacing:0.5px;" fill="#ffffff">Email</text>
+    <rect x="0" y="0" width="400" height="63" fill="#0a0a12"/>
+    <g filter="url(#fB)" transform="translate(0,63) scale(1,-1)"><use href="#bl"/></g>
+    <g transform="translate(187.0,18.5) scale(1.0833)">
+      <path d="M1.5 8.67v8.58a3 3 0 003 3h15a3 3 0 003-3V8.67l-8.928 5.493a2.947 2.947 0 01-3.144 0L1.5 8.67z M22.5 6.908V6.75a3 3 0 00-3-3h-15a3 3 0 00-3 3v.158l9.714 5.978a1.5 1.5 0 001.572 0L22.5 6.908z" fill="#ffffff" fill-opacity="0.95"/>
+    </g>
   </g>
 </svg>
