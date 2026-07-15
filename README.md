@@ -20,14 +20,13 @@ Docker Compose, nginx, SSL, CI. Без формального опыта — н�
 
 <div align="left">
 
-![Linux](https://img.shields.io/badge/Linux-FF592B?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-F16428?style=flat-square&logo=docker&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-FF592B?style=flat-square&logo=nginx&logoColor=white)
-![Python](https://img.shields.io/badge/Python-77159F?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-77159F?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-28649C?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-28649C?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-00EED0?style=flat-square&logo=react&logoColor=white)
+<img src="https://cdn.simpleicons.org/linux/C9D1D9" width="42" height="42" alt="Linux" title="Linux" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/C9D1D9" width="42" height="42" alt="Docker" title="Docker" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nginx/C9D1D9" width="42" height="42" alt="nginx" title="nginx" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/C9D1D9" width="42" height="42" alt="Git" title="Git" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python/C9D1D9" width="42" height="42" alt="Python" title="Python" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/C9D1D9" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/gnubash/C9D1D9" width="42" height="42" alt="Bash" title="Bash" />
 
 </div>
 
@@ -44,8 +43,8 @@ Docker Compose, nginx, SSL, CI. Без формального опыта — н�
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-77159F?style=flat-square&logo=github&logoColor=white)](https://github.com/dclxvist)
-[![Email](https://img.shields.io/badge/Email-FF592B?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
+<a href="https://github.com/dclxvist"><img src="https://cdn.simpleicons.org/github/C9D1D9" width="34" height="34" alt="GitHub" title="GitHub" /></a>&nbsp;&nbsp;
+<a href="mailto:you@example.com"><img src="https://cdn.simpleicons.org/maildotru/C9D1D9" width="34" height="34" alt="Email" title="Email" /></a>
 
 </div>
 
