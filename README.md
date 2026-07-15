@@ -39,13 +39,5 @@ Docker Compose, nginx, SSL, CI. Без формального опыта — н�
 </tr>
 </table>
 
-### Contacts
-
-<div align="left">
-
-<a href="https://github.com/dclxvist"><img src="https://cdn.simpleicons.org/github/C9D1D9" width="34" height="34" alt="GitHub" title="GitHub" /></a>&nbsp;&nbsp;
-<a href="mailto:you@example.com"><img src="https://cdn.simpleicons.org/maildotru/C9D1D9" width="34" height="34" alt="Email" title="Email" /></a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/footer.svg" width="100%" />
+<a href="mailto:dclxvist@icloud.com"><img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/footer-email.svg" width="49.5%" /></a>
+<a href="https://t.me/dclxvist"><img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/footer-telegram.svg" width="49.5%" /></a>
