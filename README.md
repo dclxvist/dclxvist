@@ -20,7 +20,14 @@ Docker Compose, nginx, SSL, CI. Без формального опыта — н�
 
 <div align="left">
 
-<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/stack.svg" width="454" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-linux-dark.svg"><img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-linux-light.svg" width="46" height="46" alt="Linux" title="Linux" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-docker-dark.svg"><img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-docker-light.svg" width="46" height="46" alt="Docker" title="Docker" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-nginx-dark.svg"><img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-nginx-light.svg" width="46" height="46" alt="nginx" title="nginx" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-git-dark.svg"><img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-git-light.svg" width="46" height="46" alt="Git" title="Git" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-python-dark.svg"><img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-python-light.svg" width="46" height="46" alt="Python" title="Python" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-postgresql-dark.svg"><img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-postgresql-light.svg" width="46" height="46" alt="PostgreSQL" title="PostgreSQL" /></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-bash-dark.svg"><img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-bash-light.svg" width="46" height="46" alt="Bash" title="Bash" /></picture>
+
 </div>
 
 ### Projects
