@@ -1,19 +1,10 @@
 <div align="center">
 
-<img src="./assets/about.svg" width="100%" alt="About: Junior-специалист по системному администрированию и DevOps. Docker Compose, nginx, TLS, PostgreSQL, systemd.">
-<!-- Подзаголовок — меняй текст здесь -->
-### Junior Sysadmin / DevOps Engineer
-
 **Русский** · [English](https://github.com/dclxvist/dclxvist/blob/main/README.en.md)
 
 </div>
 
-### About
-
-Junior-специалист по системному администрированию и DevOps. Строю
-и деплою production-приложения на собственной Linux VPS-инфраструктуре:
-Docker Compose, nginx, SSL, CI. Без формального опыта — но с реальными
-рабочими проектами, которые крутятся в проде.
+<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/about.svg" width="100%" alt="About: Junior-специалист по системному администрированию и DevOps. Docker Compose, nginx, TLS, PostgreSQL, systemd. Коммерческий опыт по ГПХ и самозанятости." />
 
 ### Stack
 
