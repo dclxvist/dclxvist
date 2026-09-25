@@ -4,8 +4,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/about.svg?v=2" width="100%" alt="About: Junior-специалист по системному администрированию и DevOps. Docker Compose, nginx, TLS, PostgreSQL, systemd. Коммерческий опыт по ГПХ и самозанятости." />
-### Stack
+<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/about.svg?v=3" width="100%" alt="About: Junior-специалист по системному администрированию и DevOps. Docker Compose, nginx, TLS, PostgreSQL, systemd. Коммерческий опыт по ГПХ и самозанятости." />### Stack
 
 <div align="left">
 
