@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/header.svg" width="100%" />
-
+<img src="./assets/about.svg" width="100%" alt="About: Junior-специалист по системному администрированию и DevOps. Docker Compose, nginx, TLS, PostgreSQL, systemd.">
 <!-- Подзаголовок — меняй текст здесь -->
 ### Junior Sysadmin / DevOps Engineer
 
