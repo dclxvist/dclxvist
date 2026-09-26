@@ -5,8 +5,8 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/about.svg?v=5" width="100%" alt="About: Junior-специалист по системному администрированию и DevOps. Docker Compose, nginx, TLS, PostgreSQL, systemd. Коммерческий опыт по ГПХ и самозанятости. Статус: available for hire." />
-### Stack
 
+### Stack
 <div align="left">
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-linux-dark.svg"><img src="https://raw.githubusercontent.com/dclxvist/dclxvist/main/icon-linux-light.svg" width="46" height="46" alt="Linux" title="Linux" /></picture>&nbsp;&nbsp;
